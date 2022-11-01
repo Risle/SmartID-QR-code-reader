@@ -1,0 +1,161 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Oct 22 14:37:10 2022
+
+@author: poff
+"""
+import cv2
+from pathlib import PurePosixPath
+#from pathlib import Path
+import pandas as pd
+from shutil import copy
+import os
+import glob
+
+path = '/home/poff/Projects/Technology/python/2022_QRcodes/2022_QRcodes'
+nonDecodedImageFiles = path + '/images/nonDecoded'
+dataPath = '/home/poff/Projects/Technology/python/2021AutomateWeb/smartid/SAMPLE_lead_codes.xlsx'
+imagePath = path + '/images'
+itemListPath = path + '/data/2022_scanned_item_list'
+#imageFile = 'images/IMG_0066.JPG'
+#imageFiles = 'images'
+imageFolder = ('images/IMG_1428.JPEG', 'images/IMG_0066.JPG', 'images/IMG_0068.JPG', 'images/IMG_0070.JPG')
+
+#scannedItemInfos = [] 
+# make a CSV list of QR codes from the decoded images
+def writeToFile(itemList):
+    df = pd.DataFrame.from_dict(itemList)
+    df.to_csv(itemListPath) #, mode='a')
+    
+# separate images into QR code/non-QR code folders
+def collectImages(file, isDecoded):
+    dstFail = 'images/nonDecoded/'
+    dstSuccess = 'images/decoded/'
+    filename = PurePosixPath(file).name
+    if isDecoded:
+        if not os.path.isfile(dstSuccess + filename):
+            copy(file, dstSuccess)
+            #print(filename + ' is a QR code')
+        if os.path.isfile(dstFail + filename):
+            os.remove(dstFail + filename)
+            print(filename + ' is now decoded. Congrats.')
+    elif not isDecoded:
+        if not os.path.isfile(dstFail + filename):
+            copy(file, dstFail)
+            #print(filename + ' is not a QR code')
+        if os.path.isfile(dstSuccess + filename):
+            print(filename + ' is already decoded. Dont go backwards')
+    else:
+        print (filename + ' is both a QR code and not a QR code')
+
+# Create list of QR codes and associated filenames from image files
+def processImages(fileDir):
+    scannedItemInfos = []
+    files = sorted(glob.glob(fileDir + '/*.J*', recursive=False))
+    for i, file in enumerate(files):
+        item = {'count': i}
+        item['Image File'] = PurePosixPath(file).name
+        print(item['Image File'])
+        decodeQRFromImage(file, item)
+        #decodeQRFromCurvedImage(file, item)
+        scannedItemInfos.append(item)
+    return scannedItemInfos
+
+# create a list of QR codes and corresponding image filenames
+def makescannedItemInfosList (imageFolder):
+    #scannedItemInfos = []
+    imageFolder 
+    for i, image in enumerate(imageFolder):
+        filetype = PurePosixPath(image).suffix
+        if filetype == '.JPG':
+            scannedItemInfo = {'count': i}
+            scannedItemInfo['Image File'] = PurePosixPath(image).name
+            decode(image, scannedItemInfo)
+            decodeQRFromImage(image, scannedItemInfo)
+            scannedItemInfos.append(scannedItemInfo)
+            #print(scannedItemInfo)
+        else:
+            print('filetype is not jpeg')
+    print(scannedItemInfos)
+    return scannedItemInfos
+
+
+
+
+def decode(image, info):
+    decodeMethods = [
+        'decodeQRFromImage',
+        'decodeQRFromCurvedImage',
+        'decodeFromOCR'
+        ]
+    for method in decodeMethods:
+        if info['decoded'] == False:
+            method(image,info)
+        
+            
+    
+    
+
+def decodeQRFromCurvedImage(file, item):
+    detector = cv2.QRCodeDetector()
+    img = cv2.imread(file)
+    data, bbox, url = detector.detectAndDecodeCurved(img)
+    if data == '':
+        item['decoded'] = False
+        item['decoded URL'] = 'Unknown'
+        item['decode algorithm'] = 'Tried curved'
+        collectImages(file, False)
+    else:
+        item['decoded URL'] = data
+        item['QR Code'] = PurePosixPath(data).name
+        item['decode algorithm'] = 'curved'
+        collectImages(file, True)
+        print('....................IT WORKED?!?................................')
+    print (item)
+    return item
+    
+# Decode QR codes from JPEG files
+def decodeQRFromImage(file, item):
+    detector = cv2.QRCodeDetector()
+    img = cv2.imread(file)
+    #bbox = detector.detect(img)
+    data, bbox, url = detector.detectAndDecode(img)
+    if bbox is not None: #if QR code found, decode
+        #data, url = detector.decode(img, bbox)
+        #if data == '': # if unable to decode, try curved image algorithm
+         #   data, url = detector.decodeCurved(img, bbox)
+        if data == '': #try curved
+            data, bbox, url = decodeQRFromCurvedImage(img)
+            if data == '':
+                item['decoded URL'] = 'Unknown'
+                item['algorithm'] = 'None'
+                collectImages(file, False)
+            else:
+                item['QR Code'] = PurePosixPath(data).name
+                item['decoded URL'] = 'curved'
+                collectImages(file, True)
+        elif item['algorithm'] == 'None': 
+            item['decoded URL'] = data
+            item['QR Code'] = PurePosixPath(data).name
+            item['algorithm'] = 'Curved'
+            collectImages(file, True)
+        else:
+            item['decoded URL'] = data
+            item['QR Code'] = PurePosixPath(data).name
+            item['algorithm'] = 'normal'
+            collectImages(file, True)
+    else: #if no QR found
+        item['decoded URL'] = 'Unknown'
+        item['algorithm'] = 'No QR found'
+        collectImages(file, False)        
+    return item
+    #except: 
+     #   print('oh no. An error.')
+
+    
+#decodeQRFromImage(imageFile, {})
+scannedItemInfos = processImages(imagePath)
+writeToFile(scannedItemInfos)    
+#print(not os.path.isfile(imagePath + '/nonDecoded/IMG_1750.JPEG'))
+#processImages(imagePath + '/nonDecoded')   

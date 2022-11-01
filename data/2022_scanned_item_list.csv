@@ -1,0 +1,1743 @@
+""
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,0,IMG_0063.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,1,IMG_0064.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,2,IMG_0065.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,3,IMG_0066.JPG,5M9N,True,https://smartid.bar-ray.com/5M9N,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,4,IMG_0067.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,0,IMG_0063.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,1,IMG_0064.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,2,IMG_0065.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,3,IMG_0066.JPG,5M9N,True,https://smartid.bar-ray.com/5M9N,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,4,IMG_0067.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,5,IMG_0068.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,6,IMG_0069.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,7,IMG_0070.JPG,5M9W,True,https://smartid.bar-ray.com/5M9W,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,8,IMG_0071.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,9,IMG_0072.JPG,L4ko,True,https://smartid.bar-ray.com/L4ko,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,10,IMG_0073.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,11,IMG_0074.JPG,L4IL,True,https://smartid.bar-ray.com/L4IL,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,12,IMG_0075.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,13,IMG_0076.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,14,IMG_0077.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,15,IMG_0078.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,16,IMG_0079.JPG,5M9E,True,https://smartid.bar-ray.com/5M9E,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,17,IMG_0080.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,18,IMG_0081.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR
+0,19,IMG_0082.JPG,5M9G,True,https://smartid.bar-ray.com/5M9G,True,True,False,Curved,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,20,IMG_0083.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,21,IMG_0084.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,22,IMG_0085.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,23,IMG_0086.JPG,KEDG,True,https://smartid.bar-ray.com/KEDG,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,24,IMG_0087.JPG,KEDE,True,https://smartid.bar-ray.com/KEDE,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,25,IMG_0088.JPG,L4IW,True,https://smartid.bar-ray.com/L4IW,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,26,IMG_0089.JPG,L4lh,True,https://smartid.bar-ray.com/L4lh,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,27,IMG_0090.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,28,IMG_0091.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR
+0,29,IMG_0092.JPG,KEDH,True,https://smartid.bar-ray.com/KEDH,True,True,False,Curved,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,30,IMG_0093.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,31,IMG_0094.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,32,IMG_0095.JPG,ARLO,True,https://smartid.bar-ray.com/ARLO,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,33,IMG_0096.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,34,IMG_0098.JPG,KECW,True,https://smartid.bar-ray.com/KECW,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,35,IMG_0099.JPG,KECX,True,https://smartid.bar-ray.com/KECX,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,36,IMG_0100.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,37,IMG_0101.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,38,IMG_0102.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,39,IMG_0103.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,40,IMG_0104.JPG,L4HQ,True,https://smartid.bar-ray.com/L4HQ,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,41,IMG_0105.JPG,L4HN,True,https://smartid.bar-ray.com/L4HN,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,42,IMG_0106.JPG,5LY1,True,https://smartid.bar-ray.com/5LY1,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,43,IMG_0107.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,44,IMG_0108.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,45,IMG_0109.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,46,IMG_0110.JPG,L49E,True,https://smartid.bar-ray.com/L49E,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,47,IMG_0111.JPG,5M50,True,https://smartid.bar-ray.com/5M50,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,48,IMG_0112.JPG,"jfm
+",True,"https://smartid.bar-ray.com/jfm
+",True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,49,IMG_0113.JPG,KECL,True,https://smartid.bar-ray.com/KECL,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,50,IMG_0114.JPG,5LXU,True,https://smartid.bar-ray.com/5LXU,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,51,IMG_0115.JPG,5LYO,True,https://smartid.bar-ray.com/5LYO,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,52,IMG_0116.JPG,5LXX,True,https://smartid.bar-ray.com/5LXX,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,53,IMG_0117.JPG,"{fl
+",True,"https://smartid.bar-ray.com/{fl
+",True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,54,IMG_0118.JPG, ifr,True,https://smartid.bar-ray.com/ ifr,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,55,IMG_0119.JPG,5LXZ,True,https://smartid.bar-ray.com/5LXZ,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,56,IMG_0120.JPG,"jfv
+",True,"https://smartid.bar-ray.com/jfv
+",True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,57,IMG_0121.JPG,"jTq
+",True,"https://smartid.bar-ray.com/jTq
+",True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,58,IMG_0122.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,59,IMG_0123.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,60,IMG_0124.JPG,"J!Z
+",True,"https://smartid.bar-ray.com/J!Z
+",True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,61,IMG_0125.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,62,IMG_0126.JPG,"jfk
+",True,"https://smartid.bar-ray.com/jfk
+",True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,63,IMG_0127.JPG,L4HS,True,https://smartid.bar-ray.com/L4HS,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,64,IMG_0128.JPG,L49B,True,https://smartid.bar-ray.com/L49B,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,65,IMG_0129.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,66,IMG_0130.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,67,IMG_0131.JPG,L4hU,True,https://smartid.bar-ray.com/L4hU,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,68,IMG_0132.JPG,L4h¥,True,https://smartid.bar-ray.com/L4h¥,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,69,IMG_0133.JPG,L4HW,True,https://smartid.bar-ray.com/L4HW,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,70,IMG_0134.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,71,IMG_0135.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,72,IMG_0136.JPG,L4E8,True,https://smartid.bar-ray.com/L4E8,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,73,IMG_0137.JPG,L4E5,True,https://smartid.bar-ray.com/L4E5,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,74,IMG_0138.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,75,IMG_0139.JPG,L4DM,True,https://smartid.bar-ray.com/L4DM,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,76,IMG_0140.JPG,L4EC,True,https://smartid.bar-ray.com/L4EC,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,77,IMG_0141.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,78,IMG_0142.JPG,L4DE,True,https://smartid.bar-ray.com/L4DE,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,79,IMG_0143.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,80,IMG_0144.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR
+0,81,IMG_0145.JPG,L4E9,True,https://smartid.bar-ray.com/L4E9,True,True,False,Curved,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR
+0,82,IMG_0146.JPG,L4DB,True,https://smartid.bar-ray.com/L4DB,True,True,False,Curved,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,83,IMG_0147.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,84,IMG_0148.JPG,L491,True,https://smartid.bar-ray.com/L491,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,85,IMG_0149.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,86,IMG_0150.JPG,5LZU,True,https://smartid.bar-ray.com/5LZU,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,87,IMG_0151.JPG,L4DX,True,https://smartid.bar-ray.com/L4DX,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,88,IMG_0152.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,89,IMG_0153.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,90,IMG_0154.JPG,L4DW,True,https://smartid.bar-ray.com/L4DW,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,91,IMG_0155.JPG,L4DZ,True,https://smartid.bar-ray.com/L4DZ,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,92,IMG_0156.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,93,IMG_0157.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,94,IMG_0158.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,95,IMG_0159.JPG,5M5F,True,https://smartid.bar-ray.com/5M5F,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,96,IMG_0160.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,97,IMG_0161.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,98,IMG_0162.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,99,IMG_0163.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,100,IMG_0164.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,101,IMG_0165.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,102,IMG_0166.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,103,IMG_0167.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,104,IMG_0168.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,105,IMG_0169.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,106,IMG_0170.JPG,5LYM,True,https://smartid.bar-ray.com/5LYM,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,107,IMG_0171.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,108,IMG_0172.JPG, 5LZ,True,https://smartid.bar-ray.com/ 5LZ,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,109,IMG_0173.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,110,IMG_0174.JPG,L416,True,https://smartid.bar-ray.com/L416,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,111,IMG_0175.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,112,IMG_0176.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,113,IMG_0177.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,114,IMG_0178.JPG,L4DL,True,https://smartid.bar-ray.com/L4DL,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,115,IMG_0179.JPG,L4HK,True,https://smartid.bar-ray.com/L4HK,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,116,IMG_0180.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,117,IMG_0181.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,118,IMG_0182.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,119,IMG_0183.JPG,5LYV,True,https://smartid.bar-ray.com/5LYV,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,120,IMG_0184.JPG,5M04,True,https://smartid.bar-ray.com/5M04,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,121,IMG_0185.JPG,L4HY,True,https://smartid.bar-ray.com/L4HY,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,122,IMG_0186.JPG,BQ1Y,True,https://smartid.bar-ray.com/BQ1Y,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,123,IMG_0187.JPG," 5h
+",True,"https://smartid.bar-ray.com/ 5h
+",True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,124,IMG_0188.JPG,L41Q,True,https://smartid.bar-ray.com/L41Q,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,125,IMG_0189.JPG,5M5S,True,https://smartid.bar-ray.com/5M5S,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,126,IMG_0190.JPG,5M6R,True,https://smartid.bar-ray.com/5M6R,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,127,IMG_0191.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,128,IMG_0192.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,129,IMG_0193.JPG,L4GJ,True,https://smartid.bar-ray.com/L4GJ,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,130,IMG_0194.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,131,IMG_1428.JPG,L4JA,True,https://smartid.bar-ray.com/L4JA,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,132,IMG_1429.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,133,IMG_1430.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,134,IMG_1431.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,135,IMG_1432.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,136,IMG_1433.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,137,IMG_1434.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,138,IMG_1435.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,139,IMG_1436.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,140,IMG_1437.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,141,IMG_1438.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,142,IMG_1439.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,143,IMG_1440.JPG,L4H3,True,https://smartid.bar-ray.com/L4H3,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,144,IMG_1441.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,145,IMG_1442.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,146,IMG_1443.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,147,IMG_1444.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,148,IMG_1445.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,149,IMG_1446.JPG,KEDI,True,https://smartid.bar-ray.com/KEDI,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,150,IMG_1447.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,151,IMG_1448.JPG,KEDQ,True,https://smartid.bar-ray.com/KEDQ,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,152,IMG_1449.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,153,IMG_1450.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,154,IMG_1451.JPG,L4HC,True,https://smartid.bar-ray.com/L4HC,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,155,IMG_1452.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,156,IMG_1453.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,157,IMG_1454.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,158,IMG_1455.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,159,IMG_1456.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,160,IMG_1457.JPG,L4HA,True,https://smartid.bar-ray.com/L4HA,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,161,IMG_1458.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,162,IMG_1459.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,163,IMG_1460.JPG,L4H4,True,https://smartid.bar-ray.com/L4H4,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,164,IMG_1461.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,165,IMG_1462.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,166,IMG_1463.JPG,5M6G,True,https://smartid.bar-ray.com/5M6G,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,167,IMG_1464.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,168,IMG_1465.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,169,IMG_1466.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,170,IMG_1467.JPG,5M65,True,https://smartid.bar-ray.com/5M65,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,171,IMG_1468.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,172,IMG_1469.JPG,5M5T,True,https://smartid.bar-ray.com/5M5T,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,173,IMG_1470.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,174,IMG_1471.JPG,5M5O,True,https://smartid.bar-ray.com/5M5O,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,175,IMG_1472.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,176,IMG_1473.JPG,L49Z,True,https://smartid.bar-ray.com/L49Z,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,177,IMG_1474.JPG,5M6G,True,https://smartid.bar-ray.com/5M6G,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,178,IMG_1475.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,179,IMG_1476.JPG,5M6C,True,https://smartid.bar-ray.com/5M6C,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,180,IMG_1477.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,181,IMG_1478.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,182,IMG_1479.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,183,IMG_1480.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,184,IMG_1481.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,185,IMG_1482.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,186,IMG_1483.JPG,L49Y,True,https://smartid.bar-ray.com/L49Y,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,0,4IMG_1430.JPG,L4J9,True,https://smartid.bar-ray.com/L4J9,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,1,IMG_1430.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,0,IMG_1430.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,0,IMG_1430.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,0,4IMG_1430.JPG,L4J9,True,https://smartid.bar-ray.com/L4J9,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,1,IMG_1430.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,0,IMG_1430.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,0,11IMG_0106.JPG,5LY1,True,https://smartid.bar-ray.com/5LY1,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,1,16IMG_1677.JPG,5M0T,True,https://smartid.bar-ray.com/5M0T,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,2,1IMG_1626.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,3,2IMG_0081.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,4,2IMG_0088.JPG,L4\W,True,https://smartid.bar-ray.com/L4\W,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,5,2IMG_0099.JPG,KECX,True,https://smartid.bar-ray.com/KECX,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR
+0,6,2IMG_0102.JPG,KECY,True,https://smartid.bar-ray.com/KECY,True,True,False,Curved,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,7,2IMG_0108.JPG,"jtw
+",True,"https://smartid.bar-ray.com/jtw
+",True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,8,2IMG_0152.JPG,ZWFD,True,https://yoursmartid.com/ZWFD,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,9,2IMG_0153.JPG,KEE5,True,https://smartid.bar-ray.com/KEE5,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,10,2IMG_0156.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,11,2IMG_0164.JPG,ZWFH,True,https://yoursmartid.com/ZWFH,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,0,11IMG_0106.JPG,5LY1,True,https://smartid.bar-ray.com/5LY1,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,1,16IMG_1677.JPG,5M0T,True,https://smartid.bar-ray.com/5M0T,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,2,1IMG_1626.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,3,2IMG_0081.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,4,2IMG_0088.JPG,L4\W,True,https://smartid.bar-ray.com/L4\W,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,5,2IMG_0099.JPG,KECX,True,https://smartid.bar-ray.com/KECX,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,6,2IMG_0156.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,7,2IMG_0168.JPG,L4EF,True,https://smartid.bar-ray.com/L4EF,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,8,2IMG_0169.JPG,1kp3,True,https://smartid.bar-ray.com/1kp3,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,9,2IMG_0170.JPG,5LYM,True,https://smartid.bar-ray.com/5LYM,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,10,2IMG_0191.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,11,2IMG_1430.JPG,L4J9,True,https://smartid.bar-ray.com/L4J9,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,12,2IMG_1514.JPG,5M5Z,True,https://smartid.bar-ray.com/5M5Z,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,13,2IMG_1517.JPG,5M5P,True,https://smartid.bar-ray.com/5M5P,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,14,2IMG_1520.JPG,5M5X,True,https://smartid.bar-ray.com/5M5X,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,15,2IMG_1522.JPG,L4E2,True,https://smartid.bar-ray.com/L4E2,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,16,2IMG_1523.JPG,L4E7,True,https://smartid.bar-ray.com/L4E7,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,17,2IMG_1525.JPG,5M68,True,https://smartid.bar-ray.com/5M68,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,18,2IMG_1531.JPG,5M6K,True,https://smartid.bar-ray.com/5M6K,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,19,2IMG_1532.JPG,5M64,True,https://smartid.bar-ray.com/5M64,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,20,2IMG_1534.JPG,5M5U,True,https://smartid.bar-ray.com/5M5U,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,21,2IMG_1537.JPG,5M6),True,https://smartid.bar-ray.com/5M6),True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,22,3IMG_1476.JPG,5M6C,True,https://smartid.bar-ray.com/5M6C,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,23,3IMG_1478.JPG,5M6H,True,https://smartid.bar-ray.com/5M6H,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,24,3IMG_1484.JPG,L49Y,True,https://smartid.bar-ray.com/L49Y,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,25,3IMG_1500.JPG,5M66,True,https://smartid.bar-ray.com/5M66,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,26,3IMG_1503.JPG,5M61,True,https://smartid.bar-ray.com/5M61,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR
+0,27,3IMG_1506.JPG,5M6M,True,https://smartid.bar-ray.com/5M6M,True,True,False,Curved,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,28,3IMG_1508.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,29,3IMG_1513.JPG,5M67,True,https://smartid.bar-ray.com/5M67,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,30,3IMG_1519.JPG,5M5N,True,https://smartid.bar-ray.com/5M5N,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,31,3IMG_1538.JPG,5M65,True,https://smartid.bar-ray.com/5M65,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,32,3IMG_1540.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,33,3IMG_1541.JPG,5M6S,True,https://smartid.bar-ray.com/5M6S,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,34,3IMG_1544.JPG,5M6F,True,https://smartid.bar-ray.com/5M6F,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,35,3IMG_1546.JPG,5M5R,True,https://smartid.bar-ray.com/5M5R,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,36,3IMG_1547.JPG,5M5W,True,https://smartid.bar-ray.com/5M5W,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,37,3IMG_1550.JPG,L4GR,True,https://smartid.bar-ray.com/L4GR,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,38,3IMG_1552.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,39,3IMG_1647.JPG,5M0G,True,https://smartid.bar-ray.com/5M0G,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,40,3IMG_1650.JPG,L4FT,True,https://smartid.bar-ray.com/L4FT,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,41,3IMG_1651.JPG,L4HL,True,https://smartid.bar-ray.com/L4HL,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR
+0,42,3IMG_1666.JPG,L4HO,True,https://smartid.bar-ray.com/L4HO,True,True,False,Curved,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,43,3IMG_1676.JPG,KEDD,True,https://smartid.bar-ray.com/KEDD,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,44,3IMG_1678.JPG,5MOT,True,https://smartid.bar-ray.com/5MOT,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,45,3IMG_1728.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,46,3IMG_1737.JPG,L4ag,True,https://smartid.bar-ray.com/L4ag,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,47,3IMG_1758.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,48,4IMG_0122.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,49,4IMG_0137.JPG,L4E5,True,https://smartid.bar-ray.com/L4E5,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,50,4IMG_0143.JPG,"L
+Ba",True,"https://smartid.bar-ray.com/L
+Ba",True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,51,4IMG_0144.JPG,ZWFC,True,https://yoursmartid.com/ZWFC,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,52,4IMG_1549.JPG,5M60,True,https://smartid.bar-ray.com/5M60,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,53,4IMG_1560.JPG,5M0O,True,https://smartid.bar-ray.com/5M0O,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,54,4IMG_1578.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,55,4IMG_1631.JPG,5MON,True,https://smartid.bar-ray.com/5MON,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,56,5IMG_0065.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,57,5IMG_0085.JPG,KEDF,True,https://smartid.bar-ray.com/KEDF,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,58,5IMG_0090.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,59,5IMG_0107.JPG,KEE4,True,https://smartid.bar-ray.com/KEE4,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,60,5IMG_0114.JPG,5LXU,True,https://smartid.bar-ray.com/5LXU,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,61,5IMG_0158.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,62,5IMG_1472.JPG,SMSY,True,https://smartid.bar-ray.com/SMSY,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,63,6IMG_0101.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,64,6IMG_0114.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,65,6IMG_1639.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,66,6IMG_1654.JPG,5MAE,True,https://smartid.bar-ray.com/5MAE,True,False,False,QR
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,67,7IMG_0169.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,68,7IMG_1730.JPG,5M9D,True,https://smartid.bar-ray.com/5M9D,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,69,8IMG_0064.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved
+0,70,8IMG_1662.JPG,"5,yp",True,"https://smartid.bar-ray.com/5,yp",True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,71,9IMG_1671.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,0,IMG_0063.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,1,IMG_0064.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,2,IMG_0065.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm
+0,3,IMG_0066.JPG,5M9N,True,https://smartid.bar-ray.com/5M9N,True,False,False,QR
+0,0,IMG_0063.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,1,IMG_0064.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,2,IMG_0065.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,3,IMG_0066.JPG,5M9N,True,https://smartid.bar-ray.com/5M9N,True,False,False,QR
+0,4,IMG_0067.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,5,IMG_0068.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,6,IMG_0069.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,7,IMG_0070.JPG,5M9W,True,https://smartid.bar-ray.com/5M9W,True,False,False,QR
+0,0,IMG_0063.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,1,IMG_0064.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,2,IMG_0065.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,0,IMG_0063.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,0,IMG_0063.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,0,IMG_0063.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,1,IMG_0064.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,2,IMG_0065.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,3,IMG_0067.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,4,IMG_0068.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,5,IMG_0069.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,6,IMG_0071.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,7,IMG_0073.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,8,IMG_0075.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,9,IMG_0076.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,10,IMG_0077.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,11,IMG_0078.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,12,IMG_0079.JPG,5M9E,True,https://smartid.bar-ray.com/5M9E,True,False,False,QR
+0,13,IMG_0080.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,14,IMG_0081.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,15,IMG_0082.JPG,5M9G,True,https://smartid.bar-ray.com/5M9G,True,True,False,Curved,No QR deciphered
+0,16,IMG_0083.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,17,IMG_0084.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,18,IMG_0085.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,19,IMG_0088.JPG,L4IW,True,https://smartid.bar-ray.com/L4IW,True,False,False,QR
+0,20,IMG_0090.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,21,IMG_0091.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,22,IMG_0092.JPG,KEDH,True,https://smartid.bar-ray.com/KEDH,True,True,False,Curved,No QR deciphered
+0,23,IMG_0093.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,24,IMG_0094.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,25,IMG_0096.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,26,IMG_0098.JPG,KECW,True,https://smartid.bar-ray.com/KECW,True,False,False,QR
+0,27,IMG_0099.JPG,KECX,True,https://smartid.bar-ray.com/KECX,True,False,False,QR
+0,28,IMG_0100.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,29,IMG_0101.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,30,IMG_0102.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,31,IMG_0103.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,32,IMG_0104.JPG,L4HQ,True,https://smartid.bar-ray.com/L4HQ,True,False,False,QR
+0,33,IMG_0106.JPG,5LY1,True,https://smartid.bar-ray.com/5LY1,True,False,False,QR
+0,34,IMG_0107.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,35,IMG_0108.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,36,IMG_0109.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,37,IMG_0110.JPG,L49E,True,https://smartid.bar-ray.com/L49E,True,False,False,QR
+0,38,IMG_0114.JPG,5LXU,True,https://smartid.bar-ray.com/5LXU,True,False,False,QR
+0,39,IMG_0115.JPG,5LYO,True,https://smartid.bar-ray.com/5LYO,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,40,IMG_0116.JPG,5LXX,True,https://smartid.bar-ray.com/5LXX,True,False,False,QR
+0,41,IMG_0119.JPG,5LXZ,True,https://smartid.bar-ray.com/5LXZ,True,False,False,QR
+0,42,IMG_0122.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,43,IMG_0123.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,44,IMG_0125.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,45,IMG_0129.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,46,IMG_0130.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,47,IMG_0133.JPG,L4HW,True,https://smartid.bar-ray.com/L4HW,True,False,False,QR
+0,48,IMG_0134.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,49,IMG_0135.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,50,IMG_0137.JPG,L4E5,True,https://smartid.bar-ray.com/L4E5,True,False,False,QR
+0,51,IMG_0138.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,52,IMG_0140.JPG,L4EC,True,https://smartid.bar-ray.com/L4EC,True,False,False,QR
+0,53,IMG_0141.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,54,IMG_0143.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,55,IMG_0144.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,56,IMG_0145.JPG,L4E9,True,https://smartid.bar-ray.com/L4E9,True,True,False,Curved,No QR deciphered
+0,57,IMG_0146.JPG,L4DB,True,https://smartid.bar-ray.com/L4DB,True,True,False,Curved,No QR deciphered
+0,58,IMG_0147.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,59,IMG_0149.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,60,IMG_0152.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,61,IMG_0153.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,62,IMG_0156.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,63,IMG_0157.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,64,IMG_0158.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,65,IMG_0159.JPG,5M5F,True,https://smartid.bar-ray.com/5M5F,True,False,False,QR
+0,66,IMG_0160.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,67,IMG_0161.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,68,IMG_0162.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,69,IMG_0163.JPG,HL73,True,https://smartid.bar-ray.com/HL73,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,70,IMG_0164.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,71,IMG_0165.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,72,IMG_0166.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,73,IMG_0167.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,74,IMG_0168.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,75,IMG_0169.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,76,IMG_0170.JPG,5LYM,True,https://smartid.bar-ray.com/5LYM,True,False,False,QR
+0,77,IMG_0171.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,78,IMG_0173.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,79,IMG_0175.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,80,IMG_0176.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,81,IMG_0177.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,82,IMG_0178.JPG,L4DL,True,https://smartid.bar-ray.com/L4DL,True,False,False,QR
+0,83,IMG_0180.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,84,IMG_0181.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,85,IMG_0182.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,86,IMG_0183.JPG,5LYV,True,https://smartid.bar-ray.com/5LYV,True,False,False,QR
+0,87,IMG_0190.JPG,5M6R,True,https://smartid.bar-ray.com/5M6R,True,False,False,QR
+0,88,IMG_0191.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,89,IMG_0192.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,90,IMG_0193.JPG,L4GJ,True,https://smartid.bar-ray.com/L4GJ,True,False,False,QR
+0,91,IMG_0194.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,92,IMG_1428.JPG,L4JA,True,https://smartid.bar-ray.com/L4JA,True,False,False,QR
+0,93,IMG_1429.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,94,IMG_1430.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,95,IMG_1431.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,96,IMG_1432.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,97,IMG_1433.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,98,IMG_1434.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,99,IMG_1435.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,100,IMG_1436.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,101,IMG_1437.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,102,IMG_1438.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,103,IMG_1439.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,104,IMG_1440.JPG,L4H3,True,https://smartid.bar-ray.com/L4H3,True,False,False,QR
+0,105,IMG_1441.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,106,IMG_1442.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,107,IMG_1443.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,108,IMG_1444.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,109,IMG_1445.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,110,IMG_1446.JPG,KEDI,True,https://smartid.bar-ray.com/KEDI,True,False,False,QR
+0,111,IMG_1447.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,112,IMG_1449.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,113,IMG_1450.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,114,IMG_1451.JPG,L4HC,True,https://smartid.bar-ray.com/L4HC,True,False,False,QR
+0,115,IMG_1452.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,116,IMG_1453.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,117,IMG_1454.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,118,IMG_1455.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,119,IMG_1456.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,120,IMG_1457.JPG,L4HA,True,https://smartid.bar-ray.com/L4HA,True,False,False,QR
+0,121,IMG_1458.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,122,IMG_1459.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,123,IMG_1460.JPG,L4H4,True,https://smartid.bar-ray.com/L4H4,True,False,False,QR
+0,124,IMG_1461.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,125,IMG_1462.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,126,IMG_1463.JPG,5M6G,True,https://smartid.bar-ray.com/5M6G,True,False,False,QR
+0,127,IMG_1464.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,128,IMG_1465.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,129,IMG_1466.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,130,IMG_1467.JPG,5M65,True,https://smartid.bar-ray.com/5M65,True,False,False,QR
+0,131,IMG_1468.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,132,IMG_1470.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,133,IMG_1471.JPG,5M5O,True,https://smartid.bar-ray.com/5M5O,True,False,False,QR
+0,134,IMG_1472.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,135,IMG_1475.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,136,IMG_1476.JPG,5M6C,True,https://smartid.bar-ray.com/5M6C,True,False,False,QR
+0,137,IMG_1477.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,138,IMG_1478.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,139,IMG_1479.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,140,IMG_1480.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,141,IMG_1481.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,142,IMG_1482.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,0,IMG_1484.JPG,L49Y,True,https://smartid.bar-ray.com/L49Y,True,False,False,QR
+0,1,IMG_1485.JPG,L4DK,True,https://smartid.bar-ray.com/L4DK,True,False,False,QR
+0,2,IMG_1486.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,3,IMG_1487.JPG,L4ED,True,https://smartid.bar-ray.com/L4ED,True,True,False,Curved,No QR deciphered
+0,4,IMG_1488.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,5,IMG_1489.JPG,L4DD,True,https://smartid.bar-ray.com/L4DD,True,False,False,QR
+0,6,IMG_1490.JPG,L49Y,True,https://smartid.bar-ray.com/L49Y,True,False,False,QR
+0,7,IMG_1491.JPG,SMe},True,https://smartid.bar-ray.com/SMe},True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,8,IMG_1492.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,9,IMG_1493.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,10,IMG_1494.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,11,IMG_1495.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,12,IMG_1496.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,13,IMG_1497.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,14,IMG_1498.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,15,IMG_1499.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,16,IMG_1500.JPG,5M66,True,https://smartid.bar-ray.com/5M66,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,17,IMG_1501.JPG,5M6B,True,https://smartid.bar-ray.com/5M6B,True,False,False,QR
+0,18,IMG_1502.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,19,IMG_1503.JPG,5M61,True,https://smartid.bar-ray.com/5M61,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,20,IMG_1504.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,21,IMG_1505.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,22,IMG_1506.JPG,5M6M,True,https://smartid.bar-ray.com/5M6M,True,False,False,QR
+0,23,IMG_1507.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,24,IMG_1508.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,25,IMG_1509.JPG,5M6L,True,https://smartid.bar-ray.com/5M6L,True,False,False,QR
+0,26,IMG_1510.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,27,IMG_1512.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,28,IMG_1513.JPG,5M67,True,https://smartid.bar-ray.com/5M67,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,29,IMG_1514.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,30,IMG_1515.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,31,IMG_1516.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,32,IMG_1517.JPG,5M5P,True,https://smartid.bar-ray.com/5M5P,True,False,False,QR
+0,33,IMG_1518.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,34,IMG_1519.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,35,IMG_1520.JPG,5M5X,True,https://smartid.bar-ray.com/5M5X,True,False,False,QR
+0,36,IMG_1521.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,37,IMG_1522.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,38,IMG_1523.JPG,L4E7,True,https://smartid.bar-ray.com/L4E7,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,39,IMG_1524.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,40,IMG_1525.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,41,IMG_1526.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,42,IMG_1527.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,43,IMG_1528.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,44,IMG_1529.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,45,IMG_1530.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,46,IMG_1531.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,47,IMG_1532.JPG,5M64,True,https://smartid.bar-ray.com/5M64,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,48,IMG_1533.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,49,IMG_1534.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,50,IMG_1535.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,51,IMG_1537.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,52,IMG_1538.JPG,5M65,True,https://smartid.bar-ray.com/5M65,True,True,False,Curved,No QR deciphered
+0,53,IMG_1539.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,54,IMG_1540.JPG,5M5L,True,https://smartid.bar-ray.com/5M5L,True,False,False,QR
+0,55,IMG_1541.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,56,IMG_1542.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,57,IMG_1543.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,58,IMG_1544.JPG,5M6F,True,https://smartid.bar-ray.com/5M6F,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,59,IMG_1545.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,60,IMG_1546.JPG,5M5R,True,https://smartid.bar-ray.com/5M5R,True,False,False,QR
+0,61,IMG_1547.JPG,5M5W,True,https://smartid.bar-ray.com/5M5W,True,False,False,QR
+0,62,IMG_1548.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,63,IMG_1549.JPG,5M60,True,https://smartid.bar-ray.com/5M60,True,False,False,QR
+0,64,IMG_1550.JPG,L4GR,True,https://smartid.bar-ray.com/L4GR,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,65,IMG_1551.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,66,IMG_1552.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,67,IMG_1553.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,68,IMG_1554.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,69,IMG_1555.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,70,IMG_1556.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,71,IMG_1557.JPG,5M6D,True,https://smartid.bar-ray.com/5M6D,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,72,IMG_1558.JPG,5M69,True,https://smartid.bar-ray.com/5M69,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,73,IMG_1559.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,74,IMG_1560.JPG,5M0O,True,https://smartid.bar-ray.com/5M0O,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,75,IMG_1561.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,76,IMG_1562.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,77,IMG_1563.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,78,IMG_1564.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,79,IMG_1565.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,80,IMG_1566.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,81,IMG_1567.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,82,IMG_1568.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,83,IMG_1569.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,84,IMG_1570.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,85,IMG_1571.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,86,IMG_1572.JPG,GAOS,True,https://smartid.bar-ray.com/GAOS,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,87,IMG_1573.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,88,IMG_1574.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,89,IMG_1575.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,90,IMG_1576.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,91,IMG_1577.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,92,IMG_1578.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,93,IMG_1579.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,94,IMG_1580.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,95,IMG_1581.JPG,L4GV,True,https://smartid.bar-ray.com/L4GV,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,96,IMG_1582.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,97,IMG_1583.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,98,IMG_1584.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,99,IMG_1585.JPG,SLWS,True,https://smartid.bar-ray.com/SLWS,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,100,IMG_1586.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,101,IMG_1587.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,102,IMG_1588.JPG,5M12,True,https://smartid.bar-ray.com/5M12,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,103,IMG_1589.JPG,5LX9,True,https://smartid.bar-ray.com/5LX9,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,104,IMG_1590.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,105,IMG_1591.JPG,HL76,True,https://smartid.bar-ray.com/HL76,True,False,False,QR
+0,106,IMG_1592.JPG,5LZK,True,https://smartid.bar-ray.com/5LZK,True,False,False,QR
+0,107,IMG_1593.JPG,CFG6,True,https://smartid.bar-ray.com/CFG6,True,False,False,QR
+0,108,IMG_1594.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,109,IMG_1595.JPG,"5MA
+",True,"https://smartid.bar-ray.com/5MA
+",True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,110,IMG_1596.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,111,IMG_1598.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,112,IMG_1599.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,113,IMG_1600.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,114,IMG_1601.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,115,IMG_1602.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,116,IMG_1603.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,117,IMG_1604.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,118,IMG_1605.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,119,IMG_1606.JPG,L4DO,True,https://smartid.bar-ray.com/L4DO,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,120,IMG_1607.JPG,L4DH,True,https://smartid.bar-ray.com/L4DH,True,False,False,QR
+0,121,IMG_1608.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,122,IMG_1609.JPG,L4DG,True,https://smartid.bar-ray.com/L4DG,True,False,False,QR
+0,123,IMG_1610.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,124,IMG_1611.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,125,IMG_1612.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,126,IMG_1613.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,127,IMG_1614.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,128,IMG_1615.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,129,IMG_1616.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,130,IMG_1617.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,131,IMG_1618.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,132,IMG_1619.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,133,IMG_1620.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,134,IMG_1621.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,135,IMG_1622.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,136,IMG_1623.JPG,KEE3,True,https://smartid.bar-ray.com/KEE3,True,False,False,QR
+0,137,IMG_1624.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,138,IMG_1625.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,139,IMG_1626.JPG,L4EG,True,https://smartid.bar-ray.com/L4EG,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,140,IMG_1627.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,141,IMG_1628.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,142,IMG_1629.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,143,IMG_1630.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,144,IMG_1631.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,145,IMG_1632.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,146,IMG_1633.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,147,IMG_1634.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,148,IMG_1635.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,149,IMG_1636.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,150,IMG_1637.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,151,IMG_1638.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,152,IMG_1639.JPG,KEDB,True,https://smartid.bar-ray.com/KEDB,True,False,False,QR
+0,153,IMG_1640.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,154,IMG_1641.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,155,IMG_1642.JPG,BL7D,True,https://smartid.bar-ray.com/BL7D,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,0,IMG_1643.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,1,IMG_1644.JPG,5M0Q,True,https://smartid.bar-ray.com/5M0Q,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,2,IMG_1645.JPG,5M0Q,True,https://smartid.bar-ray.com/5M0Q,True,False,False,QR
+0,3,IMG_1646.JPG,5LY2,True,https://smartid.bar-ray.com/5LY2,True,False,False,QR
+0,4,IMG_1647.JPG,5M0G,True,https://smartid.bar-ray.com/5M0G,True,False,False,QR
+0,5,IMG_1648.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,6,IMG_1649.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,7,IMG_1650.JPG,L4FT,True,https://smartid.bar-ray.com/L4FT,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,8,IMG_1651.JPG,Lapg,True,https://smartid.bar-ray.com/Lapg,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,9,IMG_1652.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,10,IMG_1653.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,11,IMG_1654.JPG,5MAE,True,https://smartid.bar-ray.com/5MAE,True,False,False,QR
+0,12,IMG_1655.JPG,5MAC,True,https://smartid.bar-ray.com/5MAC,True,False,False,QR
+0,13,IMG_1656.JPG,L4E4,True,https://smartid.bar-ray.com/L4E4,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,14,IMG_1657.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,15,IMG_1658.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,16,IMG_1659.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,17,IMG_1660.JPG,C8BM,True,https://smartid.bar-ray.com/C8BM,True,False,False,QR
+0,18,IMG_1661.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,19,IMG_1662.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,20,IMG_1663.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,21,IMG_1664.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,22,IMG_1665.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,23,IMG_1666.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,24,IMG_1667.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,25,IMG_1668.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,26,IMG_1669.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,27,IMG_1670.JPG,5M1V,True,https://smartid.bar-ray.com/5M1V,True,False,False,QR
+0,28,IMG_1671.JPG,5M04,True,https://smartid.bar-ray.com/5M04,True,True,False,Curved,No QR deciphered
+0,29,IMG_1672.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,30,IMG_1673.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,31,IMG_1674.JPG,L4DC,True,https://smartid.bar-ray.com/L4DC,True,False,False,QR
+0,32,IMG_1675.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,33,IMG_1676.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,34,IMG_1677.JPG,5M0T,True,https://smartid.bar-ray.com/5M0T,True,False,False,QR
+0,35,IMG_1678.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,36,IMG_1679.JPG,ZWF9,True,https://yoursmartid.com/ZWF9,True,True,False,Curved,No QR deciphered
+0,37,IMG_1680.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,38,IMG_1681.JPG,KEE9,True,https://smartid.bar-ray.com/KEE9,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,39,IMG_1682.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,40,IMG_1683.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,41,IMG_1684.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,42,IMG_1685.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,43,IMG_1686.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,44,IMG_1687.JPG,KEEA,True,https://smartid.bar-ray.com/KEEA,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,45,IMG_1688.JPG,L4BE,True,https://smartid.bar-ray.com/L4BE,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,46,IMG_1689.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,47,IMG_1690.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,48,IMG_1691.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,49,IMG_1692.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,50,IMG_1693.JPG,5LZJ,True,https://smartid.bar-ray.com/5LZJ,True,True,False,Curved,No QR deciphered
+0,51,IMG_1694.JPG,5LZ2,True,https://smartid.bar-ray.com/5LZ2,True,False,False,QR
+0,52,IMG_1695.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,53,IMG_1696.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,54,IMG_1697.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,55,IMG_1698.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,56,IMG_1699.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,57,IMG_1700.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,58,IMG_1701.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,59,IMG_1702.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,60,IMG_1703.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,61,IMG_1704.JPG,ZWFX,True,https://yoursmartid.com/ZWFX,True,False,False,QR
+0,62,IMG_1705.JPG,L4J5,True,https://smartid.bar-ray.com/L4J5,True,False,False,QR
+0,63,IMG_1706.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,64,IMG_1707.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,65,IMG_1708.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,66,IMG_1709.JPG,L4AW,True,https://smartid.bar-ray.com/L4AW,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,67,IMG_1710.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,68,IMG_1711.JPG,L4J3,True,https://smartid.bar-ray.com/L4J3,True,True,False,Curved,No QR deciphered
+0,69,IMG_1712.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,70,IMG_1713.JPG,L4Ax,True,https://smartid.bar-ray.com/L4Ax,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,71,IMG_1714.JPG,"
+
+ht",True,"https://smartid.bar-ray.com/
+
+ht",True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,72,IMG_1715.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,73,IMG_1716.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,74,IMG_1717.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,75,IMG_1718.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,76,IMG_1719.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,77,IMG_1720.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,78,IMG_1721.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,79,IMG_1722.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,80,IMG_1723.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,81,IMG_1724.JPG,BQ4R,True,https://smartid.bar-ray.com/BQ4R,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,82,IMG_1725.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,83,IMG_1726.JPG,GOFA,True,https://smartid.bar-ray.com/GOFA,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,84,IMG_1727.JPG,F3TZ,True,https://smartid.bar-ray.com/F3TZ,True,True,False,Curved,No QR deciphered
+0,85,IMG_1728.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,86,IMG_1729.JPG,L4J6,True,https://smartid.bar-ray.com/L4J6,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,87,IMG_1730.JPG,5M9D,True,https://smartid.bar-ray.com/5M9D,True,False,False,QR
+0,88,IMG_1731.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,89,IMG_1732.JPG,L4GW,True,https://smartid.bar-ray.com/L4GW,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,90,IMG_1733.JPG,KEDR,True,https://smartid.bar-ray.com/KEDR,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,91,IMG_1734.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,92,IMG_1735.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,93,IMG_1736.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,94,IMG_1737.JPG,Laag,True,https://smartid.bar-ray.com/Laag,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,95,IMG_1738.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,96,IMG_1739.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,97,IMG_1740.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,98,IMG_1741.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,99,IMG_1742.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,100,IMG_1743.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,101,IMG_1744.JPG,"L
+Sc",True,"https://smartid.bar-ray.com/L
+Sc",True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,102,IMG_1745.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,103,IMG_1746.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,104,IMG_1747.JPG,L4G5,True,https://smartid.bar-ray.com/L4G5,True,False,False,QR
+0,105,IMG_1748.JPG,L4JY,True,https://smartid.bar-ray.com/L4JY,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,106,IMG_1749.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,107,IMG_1750.JPG,KEE2,True,https://smartid.bar-ray.com/KEE2,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,108,IMG_1751.JPG,KEE8,True,https://smartid.bar-ray.com/KEE8,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,109,IMG_1752.JPG,KEE8,True,https://smartid.bar-ray.com/KEE8,True,False,False,QR
+0,110,IMG_1753.JPG,5LY4,True,https://smartid.bar-ray.com/5LY4,True,True,False,Curved,No QR deciphered
+0,111,IMG_1754.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,112,IMG_1755.JPG,5M77,True,https://smartid.bar-ray.com/5M77,True,False,False,QR
+0,113,IMG_1756.JPG,CHCC,True,https://smartid.bar-ray.com/CHCC,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,114,IMG_1757.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,115,IMG_1758.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,116,IMG_1759.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,117,IMG_1760.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,118,IMG_1761.JPG,5LY4,True,https://smartid.bar-ray.com/5LY4,True,True,False,Curved,No QR deciphered
+0,119,IMG_1762.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,120,IMG_1763.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,121,IMG_1764.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,122,IMG_1765.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,123,IMG_1766.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,124,IMG_1767.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,125,IMG_1768.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,126,IMG_1769.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,127,IMG_1770.JPG,L4l6,True,https://smartid.bar-ray.com/L4l6,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,128,IMG_1771.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,129,IMG_1772.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,130,IMG_1773.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,131,IMG_1774.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,132,IMG_1775.JPG,L4Af,True,https://smartid.bar-ray.com/L4Af,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,133,IMG_1776.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,134,IMG_1777.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,135,IMG_1778.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,136,IMG_1779.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,137,IMG_1780.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,138,IMG_1781.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,139,IMG_1782.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,140,IMG_1783.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,141,IMG_1784.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,142,optimizedIMG_1476.JPG,5M6C,True,https://smartid.bar-ray.com/5M6C,True,False,False,QR
+0,0,10IMG_0082.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,1,10IMG_0085.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,2,10IMG_0093.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,3,10IMG_0106.JPG,5LY1,True,https://smartid.bar-ray.com/5LY1,True,False,False,QR
+0,4,10IMG_0108.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,5,10IMG_1524.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,6,10IMG_1561.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,7,10IMG_1711.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,8,11IMG_0068.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,9,11IMG_0079.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,10,11IMG_0082.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,11,11IMG_0106.JPG,5LY1,True,https://smartid.bar-ray.com/5LY1,True,False,False,QR
+0,12,11IMG_1509.JPG,5M6L,True,https://smartid.bar-ray.com/5M6L,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,13,11IMG_1524.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,0,11IMG_1642.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,1,12IMG_0079.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,2,12IMG_0093.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,3,12IMG_0104.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,4,12IMG_0109.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,5,12IMG_1561.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,6,12IMG_1653.JPG,L4FT,True,https://smartid.bar-ray.com/L4FT,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,7,12IMG_1711.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,8,13IMG_0079.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,9,13IMG_0106.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,10,13IMG_1561.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,11,14IMG_0078.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,12,14IMG_0103.JPG,L4HP,True,https://smartid.bar-ray.com/L4HP,True,False,False,QR
+0,13,14IMG_0109.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,14,14IMG_0145.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,15,14IMG_1561.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,16,14IMG_1573.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,17,14IMG_1711.JPG,L4J3,True,https://smartid.bar-ray.com/L4J3,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,18,15IMG_0082.JPG,5M9G,True,https://smartid.bar-ray.com/5M9G,True,False,False,QR
+0,19,15IMG_1486.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,20,16IMG_0078.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,21,16IMG_0109.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,22,16IMG_1642.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,23,16IMG_1677.JPG,5M0T,True,https://smartid.bar-ray.com/5M0T,True,False,False,QR
+0,24,17IMG_0104.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,25,17IMG_0109.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,26,17IMG_1482.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,27,1IMG_0063.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,28,1IMG_0065.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,29,1IMG_0066.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,30,1IMG_0067.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,31,1IMG_0071.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,32,1IMG_0075.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,33,1IMG_0078.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,34,1IMG_0080.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,35,1IMG_0081.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,36,1IMG_0082.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,37,1IMG_0084.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,38,1IMG_0088.JPG,L4IW,True,https://smartid.bar-ray.com/L4IW,True,False,False,QR
+0,39,1IMG_0091.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,40,1IMG_0092.JPG,KEDH,True,https://smartid.bar-ray.com/KEDH,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,41,1IMG_0098.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,42,1IMG_0099.JPG,KECX,True,https://smartid.bar-ray.com/KECX,True,False,False,QR
+0,43,1IMG_0100.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,44,1IMG_0101.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,45,1IMG_0102.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,46,1IMG_0103.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,47,1IMG_0106.JPG,5LY1,True,https://smartid.bar-ray.com/5LY1,True,False,False,QR
+0,48,1IMG_0107.JPG,KEE4,True,https://smartid.bar-ray.com/KEE4,True,True,False,Curved,No QR deciphered
+0,49,1IMG_0108.JPG,jfw,True,https://smartid.bar-ray.com/jfw,True,False,False,QR
+0,50,1IMG_0115.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,51,1IMG_0116.JPG,5LXX,True,https://smartid.bar-ray.com/5LXX,True,False,False,QR
+0,52,1IMG_0119.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,53,1IMG_0123.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,54,1IMG_0125.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,55,1IMG_0129.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,56,1IMG_0134.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,57,1IMG_0135.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,58,1IMG_0143.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,59,1IMG_0144.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,60,1IMG_0152.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,61,1IMG_0153.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,62,1IMG_0156.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,63,1IMG_0159.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,64,1IMG_0160.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,65,1IMG_0161.JPG,"5M2
+",True,"https://smartid.bar-ray.com/5M2
+",True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,66,1IMG_0164.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,67,1IMG_0165.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,68,1IMG_0166.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,69,1IMG_0168.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,70,1IMG_0169.JPG,1kp3,True,https://smartid.bar-ray.com/1kp3,True,False,False,QR
+0,71,1IMG_0170.JPG,5LYM,True,https://smartid.bar-ray.com/5LYM,True,False,False,QR
+0,72,1IMG_0171.JPG,"5
+oI",True,"https://smartid.bar-ray.com/5
+oI",True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,73,1IMG_0173.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,74,1IMG_0175.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,75,1IMG_0176.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,76,1IMG_0180.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,77,1IMG_0181.JPG,3HQK,True,https://smartid.bar-ray.com/3HQK,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,78,1IMG_0182.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,79,1IMG_0183.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,80,1IMG_0191.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,81,1IMG_0192.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,82,1IMG_0193.JPG,L4GJ,True,https://smartid.bar-ray.com/L4GJ,True,False,False,QR
+0,83,1IMG_0194.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,84,1IMG_1429.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,85,1IMG_1430.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,86,1IMG_1433.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,87,1IMG_1436.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,88,1IMG_1438.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,89,1IMG_1439.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,90,1IMG_1440.JPG,L4H3,True,https://smartid.bar-ray.com/L4H3,True,False,False,QR
+0,91,1IMG_1442.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,92,1IMG_1443.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,93,1IMG_1447.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,94,1IMG_1450.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,95,1IMG_1451.JPG,L4H¢,True,https://smartid.bar-ray.com/L4H¢,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,96,1IMG_1452.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,97,1IMG_1456.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,98,1IMG_1457.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,99,1IMG_1458.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,100,1IMG_1460.JPG,L4H4,True,https://smartid.bar-ray.com/L4H4,True,False,False,QR
+0,101,1IMG_1463.JPG,5M6G,True,https://smartid.bar-ray.com/5M6G,True,False,False,QR
+0,102,1IMG_1467.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,103,1IMG_1468.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,104,1IMG_1470.JPG,5M50,True,https://smartid.bar-ray.com/5M50,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,105,1IMG_1471.JPG,5M5O,True,https://smartid.bar-ray.com/5M5O,True,False,False,QR
+0,106,1IMG_1475.JPG,5M6I,True,https://smartid.bar-ray.com/5M6I,True,False,False,QR
+0,107,1IMG_1480.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,108,1IMG_1481.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,109,1IMG_1482.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,110,1IMG_1484.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,111,1IMG_1486.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,112,1IMG_1487.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,113,1IMG_1490.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,114,1IMG_1492.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,115,1IMG_1496.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,116,1IMG_1499.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,117,1IMG_1500.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,118,1IMG_1502.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,119,1IMG_1503.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,120,1IMG_1507.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,121,1IMG_1509.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,122,1IMG_1514.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,123,1IMG_1515.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,124,1IMG_1516.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,125,1IMG_1517.JPG,5M5P,True,https://smartid.bar-ray.com/5M5P,True,False,False,QR
+0,126,1IMG_1518.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,127,1IMG_1520.JPG,SMS5,True,https://smartid.bar-ray.com/SMS5,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,128,1IMG_1522.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,129,1IMG_1523.JPG,L4E7,True,https://smartid.bar-ray.com/L4E7,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,130,1IMG_1525.JPG,5M68,True,https://smartid.bar-ray.com/5M68,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,131,1IMG_1527.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,132,1IMG_1528.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,133,1IMG_1530.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,134,1IMG_1531.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,135,1IMG_1532.JPG,5M64,True,https://smartid.bar-ray.com/5M64,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,136,1IMG_1534.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,137,1IMG_1535.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,138,1IMG_1537.JPG,"5N6
+",True,"https://smartid.bar-ray.com/5N6
+",True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,139,1IMG_1538.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,140,1IMG_1542.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,141,1IMG_1543.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,142,1IMG_1545.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,143,1IMG_1548.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,144,1IMG_1552.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,145,1IMG_1553.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,146,1IMG_1554.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,147,1IMG_1555.JPG,5LYS,True,https://smartid.bar-ray.com/5LYS,True,False,False,QR
+0,148,1IMG_1556.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,149,1IMG_1561.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,150,1IMG_1562.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,151,1IMG_1563.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,152,1IMG_1567.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,153,1IMG_1568.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,154,1IMG_1569.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,155,1IMG_1571.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,156,1IMG_1574.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,157,1IMG_1580.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,158,1IMG_1581.JPG,L4GV,True,https://smartid.bar-ray.com/L4GV,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,159,1IMG_1582.JPG,KED4,True,https://smartid.bar-ray.com/KED4,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,160,1IMG_1583.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,161,1IMG_1584.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,162,1IMG_1586.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,163,1IMG_1590.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,164,1IMG_1592.JPG,"
+Sca",True,"https://smartid.bar-ray.com/
+Sca",True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,165,1IMG_1596.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,166,1IMG_1598.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,167,1IMG_1599.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,168,1IMG_1600.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,169,1IMG_1601.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,170,1IMG_1603.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,171,1IMG_1605.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,172,1IMG_1609.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,173,1IMG_1610.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,174,1IMG_1611.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,175,1IMG_1612.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,176,1IMG_1613.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,177,1IMG_1614.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,178,1IMG_1615.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,179,1IMG_1616.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,180,1IMG_1617.JPG,ZWFA,True,https://yoursmartid.com/ZWFA,True,False,False,QR
+0,181,1IMG_1619.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,182,1IMG_1620.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,183,1IMG_1621.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,184,1IMG_1622.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,185,1IMG_1623.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,186,1IMG_1624.JPG,KEDY,True,https://smartid.bar-ray.com/KEDY,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,187,1IMG_1625.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,188,1IMG_1627.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,189,1IMG_1628.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,190,1IMG_1629.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,191,1IMG_1630.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,192,1IMG_1632.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,193,1IMG_1633.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,194,1IMG_1634.JPG,LAGP,True,https://smartid.bar-ray.com/LAGP,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,195,1IMG_1635.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,196,1IMG_1636.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,197,1IMG_1637.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,198,1IMG_1638.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,199,1IMG_1644.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,200,1IMG_1645.JPG,5M0Q,True,https://smartid.bar-ray.com/5M0Q,True,False,False,QR
+0,201,1IMG_1646.JPG,5LY2,True,https://smartid.bar-ray.com/5LY2,True,False,False,QR
+0,202,1IMG_1647.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,203,1IMG_1650.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,204,1IMG_1651.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,205,1IMG_1652.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,206,1IMG_1659.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,207,1IMG_1660.JPG,C8BM,True,https://smartid.bar-ray.com/C8BM,True,False,False,QR
+0,208,1IMG_1661.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,209,1IMG_1662.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,210,1IMG_1667.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,211,1IMG_1668.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,212,1IMG_1669.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,213,1IMG_1673.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,214,1IMG_1674.JPG,L4DC,True,https://smartid.bar-ray.com/L4DC,True,False,False,QR
+0,215,1IMG_1675.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,216,1IMG_1676.JPG,"KE
+I",True,"https://smartid.bar-ray.com/KE
+I",True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,217,1IMG_1677.JPG,5M0T,True,https://smartid.bar-ray.com/5M0T,True,False,False,QR
+0,218,1IMG_1678.JPG,5MOT,True,https://smartid.bar-ray.com/5MOT,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,219,1IMG_1679.JPG,ZWF9,True,https://yoursmartid.com/ZWF9,True,True,False,Curved,No QR deciphered
+0,220,1IMG_1680.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,221,1IMG_1682.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,222,1IMG_1689.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,223,1IMG_1690.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,224,1IMG_1691.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,225,1IMG_1692.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,226,1IMG_1693.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,227,1IMG_1694.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,228,1IMG_1695.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,229,1IMG_1696.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,230,1IMG_1699.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,231,1IMG_1700.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,232,1IMG_1701.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,233,1IMG_1703.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,234,1IMG_1704.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,235,1IMG_1712.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,236,1IMG_1714.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,237,1IMG_1715.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,238,1IMG_1716.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,239,1IMG_1719.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,240,1IMG_1723.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,241,1IMG_1724.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,242,1IMG_1725.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,243,1IMG_1727.JPG,F31Z,True,https://smartid.bar-ray.com/F31Z,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,244,1IMG_1728.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,245,1IMG_1729.JPG,L4J6,True,https://smartid.bar-ray.com/L4J6,True,False,False,QR
+0,246,1IMG_1730.JPG,5M9D,True,https://smartid.bar-ray.com/5M9D,True,False,False,QR
+0,247,1IMG_1732.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,248,1IMG_1733.JPG,KEDR,True,https://smartid.bar-ray.com/KEDR,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,249,1IMG_1735.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,250,1IMG_1736.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,251,1IMG_1737.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,252,1IMG_1738.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,253,1IMG_1739.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,254,1IMG_1740.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,255,1IMG_1742.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,256,1IMG_1746.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,257,1IMG_1748.JPG,L4JY,True,https://smartid.bar-ray.com/L4JY,True,False,False,QR
+0,258,1IMG_1749.JPG,L4JY,True,https://smartid.bar-ray.com/L4JY,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,259,1IMG_1750.JPG,KEE2,True,https://smartid.bar-ray.com/KEE2,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,260,1IMG_1751.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,261,1IMG_1752.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,262,1IMG_1753.JPG,5LY4,True,https://smartid.bar-ray.com/5LY4,True,False,False,QR
+0,263,1IMG_1755.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,264,1IMG_1758.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,265,1IMG_1759.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,266,1IMG_1760.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,267,1IMG_1761.JPG,5LY4,True,https://smartid.bar-ray.com/5LY4,True,True,False,Curved,No QR deciphered
+0,268,1IMG_1762.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,269,1IMG_1765.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,270,1IMG_1767.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,271,1IMG_1768.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,272,1IMG_1769.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,273,1IMG_1770.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,274,1IMG_1771.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,275,1IMG_1772.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,276,1IMG_1773.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,277,1IMG_1774.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,278,1IMG_1775.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,279,1IMG_1776.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,280,1IMG_1777.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,281,1IMG_1778.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,282,1IMG_1779.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,283,1IMG_1781.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,284,1IMG_1784.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,285,24IMG_0147.JPG,"5LZ
+",True,"https://smartid.bar-ray.com/5LZ
+",True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,286,26IMG_0147.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,287,27IMG_0147.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,288,2IMG_0068.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,289,2IMG_0069.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,290,2IMG_0070.JPG,5M9W,True,https://smartid.bar-ray.com/5M9W,True,False,False,QR
+0,291,2IMG_0081.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,292,2IMG_0084.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,293,2IMG_0088.JPG,L4\W,True,https://smartid.bar-ray.com/L4\W,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,294,2IMG_0096.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,295,2IMG_0099.JPG,KECX,True,https://smartid.bar-ray.com/KECX,True,False,False,QR
+0,296,2IMG_0100.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,297,2IMG_0102.JPG,KECY,True,https://smartid.bar-ray.com/KECY,True,True,False,Curved,No QR deciphered
+0,298,2IMG_0104.JPG,L4HQ,True,https://smartid.bar-ray.com/L4HQ,True,False,False,QR
+0,299,2IMG_0108.JPG,"jtw
+",True,"https://smartid.bar-ray.com/jtw
+",True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,300,2IMG_0110.JPG,L49E,True,https://smartid.bar-ray.com/L49E,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,301,2IMG_0114.JPG,5LXU,True,https://smartid.bar-ray.com/5LXU,True,False,False,QR
+0,302,2IMG_0123.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,303,2IMG_0129.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,304,2IMG_0130.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,305,2IMG_0133.JPG,L4HW,True,https://smartid.bar-ray.com/L4HW,True,False,False,QR
+0,306,2IMG_0135.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,307,2IMG_0137.JPG,L4E>,True,https://smartid.bar-ray.com/L4E>,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,308,2IMG_0138.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,309,2IMG_0140.JPG,L4EC,True,https://smartid.bar-ray.com/L4EC,True,False,False,QR
+0,310,2IMG_0149.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,311,2IMG_0152.JPG,ZWFD,True,https://yoursmartid.com/ZWFD,True,False,False,QR
+0,312,2IMG_0153.JPG,KEE5,True,https://smartid.bar-ray.com/KEE5,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,313,2IMG_0156.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,314,2IMG_0157.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,315,2IMG_0158.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,316,2IMG_0159.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,317,2IMG_0162.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,318,2IMG_0163.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,319,2IMG_0164.JPG,ZWFH,True,https://yoursmartid.com/ZWFH,True,False,False,QR
+0,320,2IMG_0168.JPG,L4EF,True,https://smartid.bar-ray.com/L4EF,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,321,2IMG_0169.JPG,1kp3,True,https://smartid.bar-ray.com/1kp3,True,False,False,QR
+0,322,2IMG_0170.JPG,5LYM,True,https://smartid.bar-ray.com/5LYM,True,False,False,QR
+0,323,2IMG_0171.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,324,2IMG_0176.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,325,2IMG_0178.JPG,L4DL,True,https://smartid.bar-ray.com/L4DL,True,False,False,QR
+0,326,2IMG_0190.JPG,5M6R,True,https://smartid.bar-ray.com/5M6R,True,False,False,QR
+0,327,2IMG_0191.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,328,2IMG_0192.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,329,2IMG_1428.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,330,2IMG_1430.JPG,L4J9,True,https://smartid.bar-ray.com/L4J9,True,False,False,QR
+0,331,2IMG_1431.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,332,2IMG_1433.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,333,2IMG_1434.JPG,L4HH,True,https://smartid.bar-ray.com/L4HH,True,True,False,Curved,No QR deciphered
+0,334,2IMG_1437.JPG,L4HJ,True,https://smartid.bar-ray.com/L4HJ,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,335,2IMG_1441.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,336,2IMG_1452.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,337,2IMG_1453.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,338,2IMG_1454.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,339,2IMG_1456.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,340,2IMG_1457.JPG,L4HA,True,https://smartid.bar-ray.com/L4HA,True,False,False,QR
+0,341,2IMG_1459.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,342,2IMG_1461.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,343,2IMG_1463.JPG,5M6G,True,https://smartid.bar-ray.com/5M6G,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,344,2IMG_1464.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,345,2IMG_1475.JPG,5Mé6,True,https://smartid.bar-ray.com/5Mé6,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,346,2IMG_1476.JPG,5M6C,True,https://smartid.bar-ray.com/5M6C,True,False,False,QR
+0,347,2IMG_1477.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,348,2IMG_1478.JPG,5M6H,True,https://smartid.bar-ray.com/5M6H,True,False,False,QR
+0,349,2IMG_1481.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,350,2IMG_1484.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,351,2IMG_1485.JPG,L4DK,True,https://smartid.bar-ray.com/L4DK,True,False,False,QR
+0,352,2IMG_1490.JPG,L49Y,True,https://smartid.bar-ray.com/L49Y,True,False,False,QR
+0,353,2IMG_1496.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,354,2IMG_1499.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,355,2IMG_1500.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,356,2IMG_1503.JPG,5M61,True,https://smartid.bar-ray.com/5M61,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,357,2IMG_1504.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,358,2IMG_1506.JPG,5M6M,True,https://smartid.bar-ray.com/5M6M,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,359,2IMG_1508.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,360,2IMG_1513.JPG,5M67,True,https://smartid.bar-ray.com/5M67,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,361,2IMG_1514.JPG,5M5Z,True,https://smartid.bar-ray.com/5M5Z,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,362,2IMG_1517.JPG,5M5P,True,https://smartid.bar-ray.com/5M5P,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,363,2IMG_1519.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,364,2IMG_1520.JPG,5M5X,True,https://smartid.bar-ray.com/5M5X,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,0,2IMG_1521.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,4,2IMG_1530.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,10,2IMG_1539.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,10,2IMG_1543.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,14,2IMG_1548.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,16,2IMG_1551.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,17,2IMG_1556.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,20,2IMG_1565.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,21,2IMG_1568.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,22,2IMG_1571.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,23,2IMG_1575.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,24,2IMG_1576.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,25,2IMG_1579.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,26,2IMG_1583.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,27,2IMG_1587.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,30,2IMG_1596.JPG,5MAA,True,https://smartid.bar-ray.com/5MAA,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,31,2IMG_1599.JPG,5LYT,True,https://smartid.bar-ray.com/5LYT,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,32,2IMG_1602.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,33,2IMG_1604.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,35,2IMG_1608.JPG,L4DG,True,https://smartid.bar-ray.com/L4DG,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,37,2IMG_1613.JPG,L4AG,True,https://smartid.bar-ray.com/L4AG,True,True,False,Curved,No QR deciphered
+0,38,2IMG_1615.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,39,2IMG_1621.JPG,5M2D,True,https://smartid.bar-ray.com/5M2D,True,False,False,QR
+0,40,2IMG_1622.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,44,2IMG_1627.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,45,2IMG_1628.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,47,2IMG_1633.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,49,2IMG_1635.JPG,5LYP,True,https://smartid.bar-ray.com/5LYP,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,50,2IMG_1640.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,51,2IMG_1641.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,54,2IMG_1657.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,55,2IMG_1658.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,56,2IMG_1659.JPG,L4AD,True,https://smartid.bar-ray.com/L4AD,True,False,False,QR
+0,57,2IMG_1661.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,58,2IMG_1664.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,59,2IMG_1665.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,61,2IMG_1667.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,62,2IMG_1668.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,66,2IMG_1684.JPG,51yQ,True,https://smartid.bar-ray.com/51yQ,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,67,2IMG_1685.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,68,2IMG_1686.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,71,2IMG_1689.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,72,2IMG_1690.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,73,2IMG_1699.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,74,2IMG_1702.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,76,2IMG_1707.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,77,2IMG_1708.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,79,2IMG_1710.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,80,2IMG_1712.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,82,2IMG_1717.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,83,2IMG_1720.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,84,2IMG_1722.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,85,2IMG_1723.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,89,2IMG_1731.JPG,L4GW,True,https://smartid.bar-ray.com/L4GW,True,False,False,QR
+0,91,2IMG_1739.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,92,2IMG_1741.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,98,2IMG_1757.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,99,2IMG_1763.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,100,2IMG_1764.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,101,2IMG_1766.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,102,2IMG_1768.JPG,5LZ2,True,https://smartid.bar-ray.com/5LZ2,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,103,2IMG_1769.JPG,5LYS,True,https://smartid.bar-ray.com/5LYS,True,False,False,QR
+0,104,2IMG_1771.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,105,2IMG_1772.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,107,2IMG_1776.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,108,2IMG_1777.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,109,2IMG_1778.JPG,1kp5,True,https://smartid.bar-ray.com/1kp5,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,110,2IMG_1779.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,111,2IMG_1780.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,112,2IMG_1782.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,113,2IMG_1783.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,114,2IMG_1784.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,118,3IMG_0071.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,119,3IMG_0073.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,120,3IMG_0076.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,123,3IMG_0091.JPG,L4IY,True,https://smartid.bar-ray.com/L4IY,True,False,False,QR
+0,124,3IMG_0094.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,127,3IMG_0122.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,128,3IMG_0134.JPG,5M52,True,https://smartid.bar-ray.com/5M52,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,129,3IMG_0135.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,130,3IMG_0157.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,132,3IMG_0160.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,133,3IMG_0162.JPG,"5)
+B",True,"https://smartid.bar-ray.com/5)
+B",True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,139,3IMG_0192.JPG,5M0p,True,https://smartid.bar-ray.com/5M0p,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,140,3IMG_1432.JPG,L4J8,True,https://smartid.bar-ray.com/L4J8,True,False,False,QR
+0,141,3IMG_1439.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,142,3IMG_1445.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,143,3IMG_1449.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,144,3IMG_1450.JPG,KEDO,True,https://smartid.bar-ray.com/KEDO,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,145,3IMG_1455.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,146,3IMG_1458.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,148,3IMG_1466.JPG,SMSL,True,https://smartid.bar-ray.com/SMSL,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,150,3IMG_1477.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,154,3IMG_1492.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,155,3IMG_1493.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,156,3IMG_1494.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,157,3IMG_1495.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,158,3IMG_1497.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,159,3IMG_1498.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,163,3IMG_1504.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,164,3IMG_1505.JPG,5M5V,True,https://smartid.bar-ray.com/5M5V,True,True,False,Curved,No QR deciphered
+0,166,3IMG_1508.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,167,3IMG_1510.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,168,3IMG_1512.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,170,3IMG_1515.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,171,3IMG_1516.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,172,3IMG_1518.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,174,3IMG_1524.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,175,3IMG_1528.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,176,3IMG_1533.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,181,3IMG_1545.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,186,3IMG_1552.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,189,3IMG_1564.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,190,3IMG_1566.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,191,3IMG_1569.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,192,3IMG_1571.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,194,3IMG_1573.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,195,3IMG_1575.JPG,L4FX,True,https://smartid.bar-ray.com/L4FX,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,196,3IMG_1578.JPG,ZV8G,True,https://yoursmartid.com/ZV8G,True,False,False,QR
+0,197,3IMG_1579.JPG,KGCB,True,https://smartid.bar-ray.com/KGCB,True,False,False,QR
+0,198,3IMG_1584.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,200,3IMG_1590.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,203,3IMG_1598.JPG,5M2F,True,https://smartid.bar-ray.com/5M2F,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,204,3IMG_1603.JPG,"BMé
+",True,"https://smartid.bar-ray.com/BMé
+",True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,205,3IMG_1604.JPG,L4DO,True,https://smartid.bar-ray.com/L4DO,True,False,False,QR
+0,208,3IMG_1618.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,209,3IMG_1619.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,210,3IMG_1633.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,211,3IMG_1637.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,212,3IMG_1638.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,213,3IMG_1640.JPG,33FQ,True,https://smartid.bar-ray.com/33FQ,True,True,False,Curved,No QR deciphered
+0,215,3IMG_1648.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,216,3IMG_1649.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,220,3IMG_1665.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,222,3IMG_1668.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,223,3IMG_1673.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,228,3IMG_1683.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,229,3IMG_1686.JPG,L4GL,True,https://smartid.bar-ray.com/L4GL,True,False,False,QR
+0,231,3IMG_1695.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,232,3IMG_1697.JPG,COUP,True,https://smartid.bar-ray.com/COUP,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,233,3IMG_1698.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,234,3IMG_1702.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,235,3IMG_1703.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,236,3IMG_1707.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,238,3IMG_1717.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,239,3IMG_1718.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,240,3IMG_1719.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,242,3IMG_1728.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,244,3IMG_1734.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,245,3IMG_1735.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,246,3IMG_1736.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,248,3IMG_1742.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,249,3IMG_1743.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,250,3IMG_1745.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,251,3IMG_1754.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,254,3IMG_1758.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,255,3IMG_1760.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,256,3IMG_1764.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,257,3IMG_1772.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,259,3IMG_1776.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,262,4IMG_0067.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,264,4IMG_0073.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,265,4IMG_0075.JPG,5M3Q,True,https://smartid.bar-ray.com/5M3Q,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,266,4IMG_0076.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,267,4IMG_0077.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,268,4IMG_0080.JPG,ZWF3,True,https://yoursmartid.com/ZWF3,True,False,False,QR
+0,270,4IMG_0094.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,271,4IMG_0096.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,275,4IMG_0122.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,277,4IMG_0138.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,286,4IMG_0165.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,287,4IMG_0166.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,289,4IMG_0173.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,290,4IMG_0175.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,291,4IMG_0180.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,292,4IMG_0182.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,295,4IMG_0194.JPG,L4a0,True,https://smartid.bar-ray.com/L4a0,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,296,4IMG_1429.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,297,4IMG_1433.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,298,4IMG_1435.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,299,4IMG_1444.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,300,4IMG_1464.JPG,5M5Y,True,https://smartid.bar-ray.com/5M5Y,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,301,4IMG_1465.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,306,4IMG_1477.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,307,4IMG_1480.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,308,4IMG_1486.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,311,4IMG_1497.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,316,4IMG_1510.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,317,4IMG_1516.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,318,4IMG_1529.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,319,4IMG_1535.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,321,4IMG_1556.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,323,4IMG_1561.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,324,4IMG_1569.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,325,4IMG_1570.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,327,4IMG_1577.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,330,4IMG_1586.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,331,4IMG_1587.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,335,4IMG_1594.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,336,4IMG_1618.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,337,4IMG_1619.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,339,4IMG_1636.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,340,4IMG_1637.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,341,4IMG_1638.JPG,KEDB,True,https://smartid.bar-ray.com/KEDB,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,343,4IMG_1661.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,344,4IMG_1668.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,346,4IMG_1672.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,347,4IMG_1673.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,349,4IMG_1682.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,352,4IMG_1706.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,354,4IMG_1716.JPG,ZWG1,True,https://yoursmartid.com/ZWG1,True,True,False,Curved,No QR deciphered
+0,355,4IMG_1721.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,356,4IMG_1722.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,357,4IMG_1725.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,359,4IMG_1739.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,360,4IMG_1740.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,364,4IMG_1767.JPG,5M3R,True,https://smartid.bar-ray.com/5M3R,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,365,5IMG_0064.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,366,5IMG_0065.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,370,5IMG_0090.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,371,5IMG_0093.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,375,5IMG_0125.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,377,5IMG_0141.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,379,5IMG_0158.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,380,5IMG_0167.JPG,L4EB,True,https://smartid.bar-ray.com/L4EB,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,381,5IMG_0177.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,383,5IMG_1429.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,384,5IMG_1445.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,385,5IMG_1455.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,388,5IMG_1486.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,389,5IMG_1488.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,390,5IMG_1494.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,391,5IMG_1526.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,392,5IMG_1556.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,393,5IMG_1559.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,394,5IMG_1561.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,395,5IMG_1570.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,398,5IMG_1663.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,399,5IMG_1672.JPG,HHEW,True,https://smartid.bar-ray.com/HHEW,True,False,False,QR
+0,401,5IMG_1700.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,402,5IMG_1708.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,404,5IMG_1720.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,406,5IMG_1734.JPG,5M9K,True,https://smartid.bar-ray.com/5M9K,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,408,5IMG_1754.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,410,5IMG_1777.JPG,ZWFL,True,https://yoursmartid.com/ZWFL,True,True,False,Curved,No QR deciphered
+0,411,5IMG_1782.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,414,6IMG_0065.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,415,6IMG_0068.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,416,6IMG_0076.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,417,6IMG_0077.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,419,6IMG_0083.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,420,6IMG_0101.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,426,6IMG_0177.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,427,6IMG_1447.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,428,6IMG_1449.JPG,KEDN,True,https://smartid.bar-ray.com/KEDN,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,429,6IMG_1462.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,430,6IMG_1479.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,431,6IMG_1488.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,432,6IMG_1526.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,433,6IMG_1539.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,434,6IMG_1573.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,437,6IMG_1648.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,440,6IMG_1707.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,445,6IMG_1781.JPG,COMN,True,https://smartid.bar-ray.com/COMN,True,False,False,QR
+0,446,7IMG_0065.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,448,7IMG_0068.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,449,7IMG_0077.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,451,7IMG_0101.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,453,7IMG_0129.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,457,7IMG_1479.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,458,7IMG_1559.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,459,7IMG_1620.JPG,KEDZ,True,https://smartid.bar-ray.com/KEDZ,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered
+0,460,7IMG_1643.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,461,7IMG_1700.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,462,7IMG_1706.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,464,7IMG_1763.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,465,7IMG_1779.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,466,7IMG_1780.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,467,8IMG_0064.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,468,8IMG_0068.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,469,8IMG_0077.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,470,8IMG_0078.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,472,8IMG_0109.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,474,8IMG_0130.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,478,8IMG_1526.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,483,9IMG_0078.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,484,9IMG_0093.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,487,9IMG_1488.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,488,9IMG_1559.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+0,489,9IMG_1618.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.

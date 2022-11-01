@@ -1,0 +1,6 @@
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,0,IMG_0069.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+1,1,IMG_0070.JPG,5M9W,True,https://smartid.bar-ray.com/5M9W,True,False,False,QR,,,
+2,2,IMG_0071.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+,itemsDecoded,itemsTotal,QR decoded,Curved QR decoded,OCR decoded
+0,1,3,1,0,0

@@ -1,0 +1,8 @@
+,Count,Image ID,QR Code,isDecoded,decoded URL,triedQR,triedCurvedQR,triedOCR,Lucky Algorithm,Notes QR,Notes Curved,Notes OCR
+0,0,IMG_0081.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+1,1,IMG_0082.JPG,5M9G,True,https://smartid.bar-ray.com/5M9G,True,True,False,Curved,No QR deciphered,,
+2,2,IMG_0083.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+3,3,IMG_0084.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+4,4,IMG_0085.JPG,,False,Unknown,True,True,True,None so far,No QR deciphered,No QR deciphered,Code not found.
+5,5,IMG_0086.JPG,KEDG,True,https://smartid.bar-ray.com/KEDG,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered,
+6,6,IMG_0087.JPG,KEDE,True,https://smartid.bar-ray.com/KEDE,True,True,True,Tesseract OCR,No QR deciphered,No QR deciphered,
